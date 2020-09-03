@@ -1,8 +1,5 @@
 ## R Programming Project 3
 
-The zip file containing the data can be downloaded here:
-[Assignment 3 Data](https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2FProgAssignment3-data.zip)
-
 ###  Part 1 Plot the 30-day mortality rates for heart attack ([outcome.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/2_R_Programming/projects/outcome.R))
 
 ```R
